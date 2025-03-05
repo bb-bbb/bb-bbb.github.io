@@ -1,0 +1,32 @@
+# 사이트의 제목
+title: "My Awesome Blog"
+
+# 사이트의 설명 (브라우저 탭에 나타날 수 있음)
+description: "A simple blog using Jekyll Theme Minimal."
+
+# 사이트 URL (GitHub Pages에서 설정할 수 있는 URL)
+url: "https://yourusername.github.io"  # 여기에 자신의 GitHub Pages URL을 입력
+
+# 사이트의 기본 URL (GitHub Pages의 경우 보통 비워둠)
+baseurl: ""
+
+# GitHub 페이지에 사용할 테마
+theme: jekyll-theme-minimal
+
+# 사이트의 로고 이미지 (옵션)
+# logo: "/assets/images/logo.png"  # 로고 이미지 경로 (필요한 경우)
+
+# 소셜 미디어 링크 (옵션)
+social:
+  twitter: "yourusername"
+  github: "yourusername"
+  linkedin: "yourusername"
+
+# 사이트의 메타데이터 설정
+markdown: kramdown
+
+# 언어 설정 (옵션)
+language: "en"
+
+# 설정에 따라 추가로 필요한 설정들
+paginate: 5  # 페이지당 글의 수 (옵션)
